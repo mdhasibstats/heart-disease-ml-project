@@ -1,6 +1,13 @@
+
 # 🧠 Project Title
 
-> Predicting Heart Disease Using Supervised Machine Learning Algorithms
+> ## Predicting Heart Disease Using Supervised Machine Learning Algorithms
+
+### 🚀 Live Demo
+Try the **Heart Disease Prediction** app live online:
+👉 [heart-disease-ml-project.app](https://heart-disease-ml-project-m3efkbnohwkfvmbbyhrezd.streamlit.app/) <br>
+
+
 
 ---
 
